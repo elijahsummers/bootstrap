@@ -6651,7 +6651,7 @@ button.close {
     display: inline-block !important;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 992px) and (max-width: 1279px) {
   .visible-lg {
     display: block !important;
   }
@@ -6666,17 +6666,17 @@ button.close {
     display: table-cell !important;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 992px) and (max-width: 1279px) {
   .visible-lg-block {
     display: block !important;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 992px) and (max-width: 1279px) {
   .visible-lg-inline {
     display: inline !important;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 992px) and (max-width: 1279px) {
   .visible-lg-inline-block {
     display: inline-block !important;
   }
@@ -6726,7 +6726,7 @@ button.close {
     display: none !important;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 992px) and (max-width: 1279px) {
   .hidden-lg {
     display: none !important;
   }
